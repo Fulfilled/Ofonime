@@ -1,4 +1,4 @@
-This is the code for my CV web page
+This is the repository for the Web page that contains my CV
 
 here is a link to my Lucid post: https://lucid.blog/ofoneset/post/1566565419
-here is a link to my twitter post commending flutterwave:https://twitter.com/Ofoset/status/1164824516213661697
+here is a link to my twitter post commending flutterwave:https://twitter.com/Ofoset/status/1164931268238356481?s=19
