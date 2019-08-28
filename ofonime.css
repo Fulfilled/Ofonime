@@ -1,0 +1,85 @@
+body {
+    background-color: floralwhite;
+  }
+#container{
+    padding: 50px 50px 70px 50px;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+#about{
+    background-color: dodgerblue;
+    height: 160px;
+    padding: 40px;
+    color: aliceblue;
+    margin-bottom: 30px;
+  }
+  #about a{
+      color: aliceblue;
+  }
+#name{
+    font-weight: bolder;
+    font-size: 30px;
+}
+img {
+    width: 120px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 8px;
+   }
+   .column {
+    float: left;
+    padding: 10px;
+  }
+  /* Left column */
+.column.side {
+    width: 15%;
+    height: 2015px;
+    background-color: dodgerblue;
+    color: aliceblue;
+    font-size: 20px;
+    
+  }
+  .sumarry{
+    border: 2px solid #0066FF;  
+    padding: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+  }
+  #space{
+    height: 1400px;
+  }
+  #space2{
+    height: 300px;
+  }
+  
+  /* Middle column */
+  .column.middle {
+    width: 75%;
+  }
+  
+  .list{
+    list-style-type: square;
+  }
+  .skills2{
+     list-style: square;
+    }
+    h4{
+      margin-bottom: -2px;
+      color: blue;
+    }
+    .experience1{
+      color: dodgerblue;
+      border-left: 6px solid red;
+      padding-left: 5px;
+      margin-bottom: -10px;
+  
+    }
+    .skills2{
+      background: #cce5ff;
+      padding: 20px;
+    }
+    .skills2 li{
+      background:white;
+      margin: 5px;
+    }
+ 
