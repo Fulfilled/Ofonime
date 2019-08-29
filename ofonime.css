@@ -33,10 +33,11 @@ img {
   /* Left column */
 .column.side {
     width: 15%;
-    height: 2015px;
+    height: 2300px;
     background-color: dodgerblue;
     color: aliceblue;
     font-size: 20px;
+    margin-bottom: 30px;
     
   }
   .sumarry{
@@ -46,10 +47,10 @@ img {
     border-radius: 5px;
   }
   #space{
-    height: 1400px;
+    height: 1525px;
   }
   #space2{
-    height: 300px;
+    height: 380px;
   }
   
   /* Middle column */
