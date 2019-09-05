@@ -124,8 +124,8 @@ h4 {
 
 
 .form{
-	width:450px;
-	padding:30px;
+	width:350px;
+	padding:10px 30px 10px 30px;
 	margin:40px auto;
 	background: rgb(255, 255, 255);
 	border-radius: 10px;
@@ -144,7 +144,7 @@ h4 {
 }
 .form h1{
 	background: #2A88AD;
-	padding: 20px 30px 15px 30px;
+	padding: 10px 20px 5px 20px;
 	margin: -30px -30px 30px -30px;
 	border-radius: 10px 10px 0 0;
 	-webkit-border-radius: 10px 10px 0 0;
