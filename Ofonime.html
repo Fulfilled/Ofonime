@@ -7,7 +7,6 @@
     <title>Ofonime Eset's CV</title>
     <link rel="stylesheet" type="text/css" href="ofonime.css" />
   </head>
-  <div id="container">
     <body>
       <div id="about">
         <div>
@@ -238,6 +237,45 @@
           </div>
         </div>
       </div>
+
+      <section id="form-box" class="form-box hidden">
+       
+      <div class="form">
+         
+        <h1>Contact Me!<span>Fill out the form below and I will get back to you ASAP!</span></h1>
+        <form>
+            <span class="close-contact-me">
+                <h2>&times;</h2>
+              </span>
+            <div class="inner-wrap">
+                
+                <label>Tittle 
+                    <select required>
+                        <option value="" selected>Select Tittle</option>                                <option value="Dr">Dr</option>
+                        <option value="Mr">Mr</option>
+                        <option value="Mrs">Mrs</option>
+                        <option value="Miss">Miss</option>
+                    </select>
+                </label>
+                <label>Name In Full <input type="text" name="field1" minlength="4" required/></label>
+               
+            </div>
+        
+            <div class="inner-wrap">
+                <label>Email Address <input type="email" name="field2" required/></label>
+            </div>
+        
+            <div>
+                <textarea name="field5" class="field-style" minlength="20" placeholder="Message"></textarea>
+            </div>
+
+            <div class="button-section">
+                    <button class="button" type="submit" name="Sign Up" >Send</button>
+            </div>
+        </form>
+        </div>
+        </section>
+        <button class="contact-me-btn">Contact Me</button>
+<script src="ofonime.js"></script>
     </body>
-  </div>
 </html>
